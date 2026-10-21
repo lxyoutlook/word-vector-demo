@@ -1,0 +1,9 @@
+streamlit==1.66.0
+gensim==4.4.0
+numpy==2.5.4
+scipy==1.18.1
+pandas==3.0.6
+plotly==6.9.0
+scikit-learn==1.9.1
+threadpoolctl==3.7.0
+jieba==0.42.1
