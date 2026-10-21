@@ -1,0 +1,23 @@
+{
+  "format": "Gensim KeyedVectors native with separate NumPy array",
+  "source": "Original user-provided TencentVectorDemo-cn.ipynb model files",
+  "files": [
+    {
+      "filename": "Tencent_AILab_ChineseEmbedding.bin",
+      "bytes": 64067417,
+      "sha256": "59e5cf2e2710ddd696c2ca83c0100e5ecdc8f88ae19d64e50c9fc6905711ec17"
+    },
+    {
+      "filename": "Tencent_AILab_ChineseEmbedding.bin.vectors.npy",
+      "bytes": 800000128,
+      "sha256": "8211cd2c770f5c4765cbaf2aac5559c87e2095f207229f8ac168b550277f56af"
+    }
+  ],
+  "vocabulary_size_verified": 2000000,
+  "dimensions_verified": 100,
+  "dtype_verified": "float32",
+  "load_mode": "mmap=r",
+  "verified_on": "2026-10-20",
+  "included_in_source_archive": false,
+  "included_in_full_release_archive": true
+}
